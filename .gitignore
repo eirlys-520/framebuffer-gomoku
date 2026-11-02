@@ -1,0 +1,11 @@
+# 编译产物
+a.out
+*.o
+*.out
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
